@@ -1,0 +1,43 @@
+{
+  "project_info": {
+    "project_number": "646831419626",
+    "firebase_url": "https://marketeurfollomme.firebaseio.com",
+    "project_id": "marketeurfollomme",
+    "storage_bucket": "marketeurfollomme.appspot.com"
+  },
+  "client": [
+
+
+    
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646831419626:android:44233be9c902d300e12793",
+        "android_client_info": {
+          "package_name": "com.example.marketeur_follow_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646831419626-hrbqq4hod44m41anj4kfqqiiftcbiuhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAngQ8JfkEPejbTBfDEfBZAu4nC_eTVB7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646831419626-hrbqq4hod44m41anj4kfqqiiftcbiuhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

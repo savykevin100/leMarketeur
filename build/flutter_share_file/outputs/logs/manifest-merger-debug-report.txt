@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:1:1-14:12
+INJECTED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:1:1-14:12
+	package
+		ADDED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:2:3-41
+		INJECTED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml
+		INJECTED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:3:1-13:15
+provider#androidx.core.content.FileProvider
+ADDED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:4:3-12:14
+	android:grantUriPermissions
+		ADDED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:8:5-39
+	android:authorities
+		ADDED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:6:5-55
+	android:exported
+		ADDED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:7:5-29
+	android:name
+		ADDED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:5:5-54
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:9:5-11:46
+	android:resource
+		ADDED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:11:9-43
+	android:name
+		ADDED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml:10:9-59
+uses-sdk
+INJECTED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml
+INJECTED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml
+		ADDED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml
+		INJECTED from /home/kevin/sdkFlutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_file-1.1.4+1/android/src/main/AndroidManifest.xml
